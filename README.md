@@ -15,4 +15,5 @@
 
 -->
 
-[![HitCount](http://hits.dwyl.com/rodriguesmsb/rodriguesmsb.svg)](http://hits.dwyl.com/rodriguesmsb/rodriguesmsb)
+![image title](https://rushter.com/counter.svg)
+![counter](https://github.com/rodriguesmsb/rodriguesmsb.m.pipedream.net)
