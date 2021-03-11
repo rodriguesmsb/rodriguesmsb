@@ -15,5 +15,5 @@
 
 -->
 
-![image title](https://rushter.com/counter.svg)
+
 ![counter](https://github.com/rodriguesmsb/rodriguesmsb.m.pipedream.net)
