@@ -1,9 +1,4 @@
 ### Moreno Rodrigues 👋
-
-Hello git!
-
-- 🔭 I’m currently working on some nice projects about extract information from Brazilian Health system
-
 <!--
 **rodriguesmsb/rodriguesmsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +16,7 @@ Hello git!
 
 
 ![image title](https://rushter.com/counter.svg)
+
+Hello git!
+
+- 🔭 I’m currently working on some nice projects about extract information from Brazilian Health system
