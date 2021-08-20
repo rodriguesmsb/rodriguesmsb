@@ -19,4 +19,5 @@
 
 Hello git!
 
-- 🔭 I’m currently working on some nice projects about extract information from Brazilian Health system
+- 🔭 I’m currently working on some projects about extract information from Brazilian Health system
+- 🌱 I'm currently learning about ML and Web Design
